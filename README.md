@@ -6,9 +6,7 @@ showcase the current UI capabilities of Compose.
 
 Screenshots
 -----------
-<img src="screenshots/screen1.PNG" alt="Screenshot">
-
-<img src="screenshots/screen2.PNG" alt="Screenshot">
+<img src="screenshots/screen1.PNG" alt="Screenshot">   <img src="screenshots/screen2.PNG" alt="Screenshot">
 
 ## Features
 
