@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="app_tagline">Better surveys with Jetpack Compose</string>
+    <string name="icon_dsc">icon description</string>
+</resources>
